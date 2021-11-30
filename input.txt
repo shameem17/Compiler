@@ -1,0 +1,75 @@
+
+!include  math
+!include string.h
+
+suru:
+{ 
+  !!/strat porgram !!/
+   int a,b,c,d;
+   a=8;
+   b=10;
+   c=11;
+   prime(a);
+   gcd(b,c);
+   lcm(a,c);
+   cin(d , 12);
+   display(d);
+   root(4);
+   fib(6);
+   
+   !/if without else
+   
+   condition(c>b)
+   {
+     c-b;
+	}
+	!/if with else
+	
+   condition(b>a)
+   {
+     b-a;
+   }
+   or
+   { 
+      a-b;
+	}
+	!/display function
+	
+   !/loop 
+   
+   loop (a<c)
+   {
+     7-8;
+   }
+   
+   rloop (b>a)
+   {
+      100/5;
+	}
+   
+   switch ( a )
+	{
+	cs 1 :
+		a + b; br;
+    ;
+	cs 2 :
+		b + c; br;
+	;
+	cs 3 : 
+		a + c; br;
+	dflt :
+		c + 4; br;
+	}
+   
+	
+	jotokkhon (6<3)
+	{ 
+	  c=c+1;
+	 }
+	 
+	inc (d,3);
+	display(d);
+	dec (d,2);
+	display(d);
+	display(4*9);
+}

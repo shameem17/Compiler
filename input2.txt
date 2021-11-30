@@ -1,0 +1,145 @@
+
+
+!include string.h
+!include math
+
+suru:
+{ 
+   int a,b,c,d;
+   
+   a=1;
+   b=6;
+   gcd(12,4);
+   lcm(3,9);
+   fib(6);
+   c=11;
+   prime(a);
+   prime(b);
+   prime(c);
+   
+   cin(d , 12);
+   display(d);
+   
+   root(4);
+   root(a);
+   
+   condition(c>b)
+   {
+     condition(c==11)
+	 {
+	   7-9;
+	  }
+	}
+	
+   condition(b>a)
+   {
+     b-a;
+   }
+   or
+   { 
+      a-b;
+	}
+	
+	
+   display(a);
+ 
+   
+   loop (a<c)
+   {
+     7-8;
+   }
+   
+   rloop (b>a)
+   {
+      100/5;
+	}
+	
+
+	
+	loop(c<a)
+	{
+	   8-19;
+	 }
+	
+   display(a);
+
+   
+
+   
+   switch ( a )
+	{
+	cs 1 :
+		a + b; br;
+	+
+	cs 2 :
+		b + c; br;
+	+
+	cs 3 : 
+		a + c; br;
+	dflt :
+		c + 4; br;
+	}
+   
+	
+	jotokkhon (6>2)
+	{ 
+	  c=c+1;
+	 }
+	 
+	 display(d);
+	inc (d,3);
+	
+	display(d);
+	dec (d,2);
+	
+	display(d);
+	display(4*9);
+}
+
+
+
+
+Header file include
+Header file include
+//Multiple line comment
+This is a Declaration
+Value of the variable= 8	
+Value of the variable= 10	
+Value of the variable= 11	
+
+8 is not prime
+Gcd of 10 and 11 = 1
+Lcm of 8 and 11 = 88
+input done. Value =12 
+Printing Value 12
+Value of root=2.000000
+The fibonacci series is= 0 1 1 2 3 5 
+//This is comment
+
+value of expression in condition: 1
+//This is comment
+
+value of expression in condition: 2
+//This is comment
+//This is comment
+The value of expression= -1
+value of the loop: 8 expression value: -1
+value of the loop: 9 expression value: -1
+value of the loop: 10 expression value: -1
+value of the loop: 11 expression value: -1
+The value of expression= 20
+value of the loop: 10 expression value: 20
+value of the loop: 9 expression value: 20
+value of the loop: 8 expression value: 20
+Case 1 executed and the expression value is=18
+Case 2 executed and the expression value is=21
+Case 3 executed and the expression value is=19
+Default Case executed and the expression value=15
+Value of the variable= 12	
+value of the while loop: 6
+value of the while loop: 5
+value of the while loop: 4
+value of the while loop: 3
+Printing Value 15
+Printing Value 13
+Printing Value 36

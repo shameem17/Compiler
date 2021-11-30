@@ -1,0 +1,38 @@
+Header file include
+Header file include
+//Multiple line comment
+This is a Declaration
+Value of the variable= 8	
+Value of the variable= 10	
+Value of the variable= 11	
+
+8 is not prime
+Gcd of 10 and 11 = 1
+Lcm of 8 and 11 = 88
+input done. Value =12 
+Printing Value 12
+Value of root=2.000000
+The fibonacci series is= 0 1 1 2 3 5 
+//This is comment
+
+value of expression in condition: 1
+//This is comment
+
+value of expression in condition: 2
+//This is comment
+//This is comment
+The value of expression= -1
+value of the loop: 8 expression value: -1
+value of the loop: 9 expression value: -1
+value of the loop: 10 expression value: -1
+value of the loop: 11 expression value: -1
+The value of expression= 20
+value of the loop: 10 expression value: 20
+value of the loop: 9 expression value: 20
+value of the loop: 8 expression value: 20
+Default Case executed and the expression value=15
+Value of the variable= 12	
+Invalid Loop condition
+Printing Value 15
+Printing Value 13
+Printing Value 36

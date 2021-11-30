@@ -1,0 +1,20 @@
+Header file include
+Header file include
+This is a Declaration
+Value of the variable= 1	
+Value of the variable= 6	
+Gcd of 12 and 4 = 4
+Lcm of 3 and 9 = 9
+The fibonacci series is= 0 1 1 2 3 5 8 
+Value of the variable= 11	
+
+1 is prime
+
+6 is not prime
+
+11 is prime
+input done. Value =12 
+Printing Value 12
+Value of root=2.000000
+Value of root=1.000000
+syntax error
